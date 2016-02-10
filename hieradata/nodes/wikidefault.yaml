@@ -1,0 +1,5 @@
+---
+mediawiki::wikidbserver: localhost
+mediawiki::wikidbuser: root
+mediawiki::wikidbpassword: soap-ui
+mediawiki::wikiupgradekey: puppetmasterenterprise
